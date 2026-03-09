@@ -17,11 +17,11 @@ title: Janis Ko的个人树洞
 email: enzogko@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   我只想悠悠荡荡地过好每一天，
-  世上的痛苦再也不见,
-  Rights for everyone, and freedom for everyone.🏳️‍🌈☂️
+  世上的痛苦再也不见。
+  Rights for everyone,and freedom for everyone.🏳️‍🌈☂️
 twitter_username: KitJanis7764
 github_username: CharliiKo
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "mint"
 search: true
 
 # Build settings
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Janis Ko"
   avatar : "/assets/images/Atomu.jpg"
-  bio    : "  我只想悠悠荡荡地过好每一天，\n世上的痛苦再也不见,\nRights for everyone, and freedom for everyone.🏳️‍🌈☂️"
+  bio    : "  我只想悠悠荡荡地过好每一天，\n世上的痛苦再也不见。\nRights for everyone, and freedom for everyone.🏳️‍🌈☂️"
   links:
     - label: "My Website"
       icon: "fas fa-fw fa-link"
