@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 ---
+
     个人研究方向为深度学习/嵌入式开发/FPGA全链路开发。
     立志成为全栈工程师~😸
     
