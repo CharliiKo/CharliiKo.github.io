@@ -2,7 +2,15 @@
 permalink: /about/
 title: "About"
 ---
+    个人研究方向为深度学习/嵌入式开发/FPGA全链路开发。
+    立志成为全栈工程师~😸
+    
+    我只想悠悠荡荡地过好每一天，
+    世上的痛苦再也不见。
+    我只想悠悠蕩蕩地過好每一天，
+    世上的痛苦再也不見。
+    Rights for everyone, and freedom for everyone.🏳️‍🌈☂️
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+    感谢您浏览我的个人主页。
+    感謝您瀏覽我的個人主頁。
+    Thank you for visiting my website.🦖
