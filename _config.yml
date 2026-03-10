@@ -19,12 +19,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Only a personal blog, nothing more.
 twitter_username: KitJanis7764
 github_username: CharliiKo
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "mint"
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.27.3
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
